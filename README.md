@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+I am currently a student at the University of Tasmania doing a double major in both AI and Data Science.
+
+
 <!--
 **John-Streat/John-Streat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
