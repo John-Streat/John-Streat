@@ -1,7 +1,7 @@
 ## Hi there, I'm John Streat 👋
 
 #### Reach me here:
-[![Static Badge](https://img.shields.io/badge/Linkedin-John_Streat-blue)](https://www.linkedin.com/in/john-streat-7b35a12b8)
+[![Linkedin](https://img.shields.io/badge/Linkedin-John_Streat-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/john-streat-7b35a12b8)
 
 
 I am currently a student at the University of Tasmania doing a double major in both AI and Data Science.
